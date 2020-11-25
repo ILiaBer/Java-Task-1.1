@@ -5,9 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Дефект 1](https://github.com/ILiaBer/Java-Task-1.1/issues/1)
-* [Дефект 2](https://github.com/ILiaBer/Java-Task-1.1/issues/2)
-* [Дефект 3](https://github.com/ILiaBer/Java-Task-1.1/issues/3)
+* [Некоторые из ключей в программе KeyValidator неисправны](https://github.com/ILiaBer/Java-Task-1.1/issues/4)
 
 Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
